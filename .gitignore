@@ -1,0 +1,17 @@
+# Salidas locales y herramientas
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+.cxx/
+*.log
+.DS_Store
+# Credenciales privadas: nunca subir al repositorio
+.env
+.env.*
+**/secrets.properties
+**/keystore.properties
+*.jks
+*.keystore
